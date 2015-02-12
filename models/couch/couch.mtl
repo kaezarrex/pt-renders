@@ -1,0 +1,5 @@
+newmtl fabric
+Kd 0.23 0.85 0.25
+
+newmtl wood
+Kd 0.28 0.2 0.06
